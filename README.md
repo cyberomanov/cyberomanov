@@ -10,7 +10,7 @@ also i actively participate in testnets of young networks, sometimes even become
 
 here is my social, feel free to contact if you have any questions:
 
-telegram: [https://t.me/cyberomanov](https://t.me/cyberomanov), [https://t.me/how_to_node](https://t.me/how_to_node).
-discord: cyberomanov#7985
-twitter: [https://twitter.com/cyberomanov](https://twitter.com/cyberomanov)
-github: [https://github.com/cyberomanov](https://github.com/cyberomanov)
+- telegram: [https://t.me/cyberomanov](https://t.me/cyberomanov), [https://t.me/how_to_node](https://t.me/how_to_node);
+- discord: cyberomanov#7985;
+- twitter: [https://twitter.com/cyberomanov](https://twitter.com/cyberomanov);
+- github: [https://github.com/cyberomanov](https://github.com/cyberomanov).
