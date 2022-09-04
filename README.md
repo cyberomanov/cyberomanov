@@ -1,14 +1,14 @@
 <p align="center"><img src="./assets/222.gif"/></p>
 
 <p align="center">
-    <a href="https://t.me/cyberomanov" target="_blank">
+    <a href="https://t.me/cyberomanov" target="_blank" style="text-decoration: none">
         <img src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=telegram&&color=202020">
     </a>
-    <a href="https://twitter.com/cyberomanov" target="_blank">
-        <img src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=twitter&color=202020">
-    </a>
-    <a href="https://discord.com/" target="_blank">
+    <a href="https://discord.com/" target="_blank" style="text-decoration: none">
      <img src="https://img.shields.io/badge/-cyberomanov%237985-09?style=for-the-badge&logo=discord&color=202020">
+    </a>
+    <a href="https://twitter.com/cyberomanov" target="_blank" style="text-decoration: none">
+        <img src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=twitter&color=202020">
     </a>
 </p>
 
