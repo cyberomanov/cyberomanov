@@ -13,7 +13,7 @@
 </p>
 
 ____
-<h3 align="center">Daniil Romanov, also know as <b>@cyberomanov.</h3>
+<h3 align="center">Daniil Romanov, also know as <b>@cyberomanov.</b></h3>
 <h4 align="center">independent validator. <b>perfect by birth</b>. @how_to_node creator.</h4>
 
 _____
