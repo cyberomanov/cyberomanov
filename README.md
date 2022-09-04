@@ -1,7 +1,7 @@
-<p align="center"><img src="./assets/222.gif"/></p>
+<p align="center"><img src="./assets/222.gif" width="100%" height="100%"/></p>
 
-<p align="center">
-    <a href="https://t.me/cyberomanov" target="_blank" style="text-decoration: none">
+<p align="center" >
+    <a href="https://t.me/cyberomanov" target="_blank" style="text-decoration: none" >
         <img src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=telegram&&color=202020">
     </a>
     <a href="https://discord.com/" target="_blank" style="text-decoration: none">
@@ -12,12 +12,14 @@
     </a>
 </p>
 
-_____
-
-<h3 align="center" style="border-bottom: none"><p>Daniil Romanov, also know as <b>@cyberomanov</b>.</h3>
+____
+<h3 align="center">Daniil Romanov, also know as <b>@cyberomanov.</h3>
 <h4 align="center">independent validator. <b>perfect by birth</b>. @how_to_node creator.</h4>
 
 _____
+
+
+
 
 
 hey, i'm daniil romanov, aka **@cyberomanov**. experienced crypto enthusiast, professional validator and perfect by birth.
