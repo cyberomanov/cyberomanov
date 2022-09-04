@@ -1,3 +1,7 @@
+<p align="center"><img src="./assets/amazing.gif"/></p>
+<p align="center"><img src="./assets/amazing2.gif"/></p>
+<p align="center"><img src="./assets/jjj.gif"/></p>
+
 hey, i'm daniil romanov, aka **@cyberomanov**. experienced crypto enthusiast, professional validator and perfect by birth.
 
 [@how_to_node](https://t.me/how_to_node) - is a huge commnity of enthusiasts, where we exchange experience, ideas and insiders about validation. there're **>10k participants**. and i'm creator of this. that's insane.
