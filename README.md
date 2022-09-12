@@ -12,9 +12,6 @@
     </a>
     </a>
     <a href="https://t.me/how_to_node" target="_blank" style="text-decoration: none">
-        <img height="35px" src="https://img.shields.io/badge/-how_to_node-09?style=for-the-badge&logo=telegram&color=202020">
-    </a>
-    <a href="https://t.me/how_to_node" target="_blank" style="text-decoration: none">
         <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&logo=&color=202020">
     </a>
 </div>
