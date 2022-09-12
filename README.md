@@ -1,24 +1,5 @@
 <img src="./assets/222.gif" width="100%">
 
-<div align="center">
-    <a href="https://t.me/cyberomanov" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/cyberomanov-09?style=for-the-badge&logo=telegram&&color=202020">
-    </a>
-    <a href="https://discord.com/" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/-cyberomanov%237985-09?style=for-the-badge&logo=discord&color=202020">
-    </a>
-    <a href="https://twitter.com/cyberomanov" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=twitter&color=202020">
-    </a>
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://cyberomanov.me" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&color=202020&logoColor=fff">
-    </a>
-</div>
-
 _____
 <h3 align="center">Daniil Romanov, also known as <a href="https://t.me/cyberomanov" target="_blank">@cyberomanov</a>.</h3>
 <p align="center">independent validator. <b>perfect by birth</b>. <a href="https://t.me/how_to_node" target="_blank">@how_to_node</a> creator.</p>
@@ -32,7 +13,7 @@ at the same time, <b>@how_to_node</b> is the humble corner of the creator where 
 
 > <b>@how_to_node</b> history of creation and ideology can be found <a href="./how_to_node_intro.md" target="_blank">here</a>.
 
-i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="./networks_and_contributions.md" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
+i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/#portfolio" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
 
 besides, you can delegate your assets to me so that we receive passive income <b>together</b>.
 
@@ -47,7 +28,7 @@ ____
 
 <div align="center">
     <a href="https://cyberomanov.me" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&color=202020&logoColor=fff">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&logo=coursera&color=202020">
     </a>
 </div>
 
