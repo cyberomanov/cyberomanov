@@ -13,7 +13,7 @@ at the same time, <b>@how_to_node</b> is the humble corner of the creator where 
 
 > <b>@how_to_node</b> history of creation and ideology can be found <a href="./how_to_node_intro.md" target="_blank">here</a>.
 
-i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/#portfolio" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
+i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
 
 besides, you can delegate your assets to me so that we receive passive income <b>together</b>.
 
