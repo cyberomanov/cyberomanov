@@ -17,7 +17,7 @@ i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a hre
 
 besides, you can delegate your assets to me so that we receive passive income <b>together</b>.
 
-> list of supported networks, my achievements and contributions to projects can be found <a href="./assets/networks_and_contributions.md" target="_blank">here</a>.
+> list of supported networks, my achievements and contributions to projects can be found <a href="./assets/networks_contributions_and_achievements.md" target="_blank">here</a>.
 
 if you choose me as validator, you support and contribute to <b>decentralization and security</b> of the network.
 
