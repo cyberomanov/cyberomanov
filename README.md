@@ -1,4 +1,4 @@
-<img src="./assets/222.gif" width="100%">
+<img src="./assets/cover.gif" width="100%">
 
 _____
 <h3 align="center">Daniil Romanov, also known as <a href="https://t.me/cyberomanov" target="_blank">@cyberomanov</a>.</h3>
@@ -11,13 +11,13 @@ my main vision and activity is <b>to teach anyone</b> how to set up and support 
 
 at the same time, <b>@how_to_node</b> is the humble corner of the creator where i post updates and guides about interesting for <b>me</b> projects.
 
-> <b>@how_to_node</b> history of creation and ideology can be found <a href="./how_to_node_intro.md" target="_blank">here</a>.
+> <b>@how_to_node</b> history of creation and ideology can be found <a href="./assets/how_to_node_intro.md" target="_blank">here</a>.
 
 i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
 
 besides, you can delegate your assets to me so that we receive passive income <b>together</b>.
 
-> list of supported networks, my achievements and contributions to projects can be found <a href="./networks_and_contributions.md" target="_blank">here</a>.
+> list of supported networks, my achievements and contributions to projects can be found <a href="./assets/networks_and_contributions.md" target="_blank">here</a>.
 
 if you choose me as validator, you support and contribute to <b>decentralization and security</b> of the network.
 
