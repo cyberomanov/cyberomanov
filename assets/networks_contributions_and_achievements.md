@@ -58,3 +58,19 @@ my contributions to projects:
 - [Subspace](https://subspace.network/):
     - the creator of the official russian-speaking telegram group counting **1k participants**: [@subspace_CIS](https://t.me/subspace_cis);
     - the creator of the non-official russian guide about testnet counting **>41k views**: [Subspace](https://cyberomanov.tech/subspace).
+
+____
+<div align="center">
+    <a href="https://t.me/cyberomanov" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/cyberomanov-09?style=for-the-badge&logo=telegram&&color=202020">
+    </a>
+    <a href="https://twitter.com/cyberomanov" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=twitter&color=202020">
+    </a>
+    <a href="https://discord.com/" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov%237985-09?style=for-the-badge&logo=discord&color=202020">
+    </a>
+    <a href="https://cyberomanov.me" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&logo=coursera&color=202020">
+    </a>
+</div>
