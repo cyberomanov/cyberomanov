@@ -28,4 +28,20 @@ at the same time, [@how_to_node](https://t.me/how_to_node) is the humble corner 
 
 i use teletype for my articles and here it is: [cyberomanov.tech](https://cyberomanov.tech).
 
-> [@how_to_node](https://t.me/how_to_node) - is a healthy community of validators of all ages and skills. nowadays it counting around 12k participants. 
+> [@how_to_node](https://t.me/how_to_node) - is a healthy community of validators of all ages and skills. nowadays it counting around 12k participants.
+
+____
+<div align="center">
+    <a href="https://t.me/cyberomanov" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/cyberomanov-09?style=for-the-badge&logo=telegram&&color=202020">
+    </a>
+    <a href="https://twitter.com/cyberomanov" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov-09?style=for-the-badge&logo=twitter&color=202020">
+    </a>
+    <a href="https://discord.com/" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov%237985-09?style=for-the-badge&logo=discord&color=202020">
+    </a>
+    <a href="https://cyberomanov.me" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/-cyberomanov.me-09?style=for-the-badge&logo=coursera&color=202020">
+    </a>
+</div>
