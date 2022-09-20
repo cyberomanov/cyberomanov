@@ -5,21 +5,20 @@ _____
 <p align="center">independent validator. <b>perfect by birth</b>. <a href="https://t.me/how_to_node" target="_blank">@how_to_node</a> creator.</p>
 
 ____
+
 my main vision and activity is <b>to teach anyone</b> how to set up and support <b>his own node</b>. that’s why I created my personal blog about node-running <b>at the beginning of 2021</b>.
 
 <a href="https://t.me/how_to_node" target="_blank">@how_to_node</a> - is a healthy community of validators of all ages and skills. nowadays it counting around <b>12k participants</b>.
 
 at the same time, <b>@how_to_node</b> is the humble corner of the creator where i post updates and guides about interesting for <b>me</b> projects.
 
-> <b>@how_to_node</b> history of creation and ideology can be found <a href="./assets/how_to_node_intro.md" target="_blank">here</a>.
-
-i have <b>several active testnets</b> and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
+i have several active testnets and <b>around 20 mainnets</b> in my <a href="https://cyberomanov.me/" target="_blank">portfolio</a>, some foundation delegations and even a <b>grant</b>.
 
 besides, you can delegate your assets to me so that we receive passive income <b>together</b>.
 
-> list of supported networks, my achievements and contributions to projects can be found <a href="./assets/networks_contributions_and_achievements.md" target="_blank">here</a>.
-
 if you choose me as validator, you support and contribute to <b>decentralization and security</b> of the network.
+
+> my self-identity, **@how_to_node** history of creation and ideology, list of supported networks, my achievements and contributions to projects can be found <a href="./self-identity.md" target="_blank">here</a>.
 
 ____
 <h3 align="center">wish me luck != to get slashed.</h3>
