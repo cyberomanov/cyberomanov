@@ -54,7 +54,6 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
 - **obtained a delegation from foundations:**
     - [Solana](https://solana.com/): [FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef](https://www.validators.app/validators/FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef)
     - [Meme](https://meme.sx/): [memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8](https://ping.pub/meme/staking/memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8)
-    - [GenesisL1](https://genesisl1.com/): [genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq](https://ping.pub/genesisl1/staking/genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq)
     - [Mises](http://www.mises.site/): [misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59](https://gw.mises.site/validators/misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59)
 <br><br>
 - **obtained a grant from foundations:**
@@ -64,10 +63,9 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Nym](https://nymtech.net/): [7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD](https://mixnet.explorers.guru/mixnode/7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD)
 <br><br>
 - **other validators:**
-    - [Galaxy](https://galaxychain.zone/): [galaxyvaloper1aw5kec8yngv0y7qd3a2hvmref0annag0wwfh8w](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1aw5kec8yngv0y7qd3a2hvmref0annag0wwfh8w)
+    - [GenesisL1](https://genesisl1.com/): [genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq](https://ping.pub/genesisl1/staking/genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq)
     - [Provenance](https://provenance.io/): [pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3](https://www.mintscan.io/provenance/validators/pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3)
     - [Bitsong](https://bitsong.io/): [bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7](https://www.mintscan.io/bitsong/validators/bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7)
-    - [Dig](https://digchain.org/): [digvaloper157hj5gv7ghxxxzrhw6ejqkpa7duh5nzdc0q47g](https://ping.pub/dig/staking/digvaloper157hj5gv7ghxxxzrhw6ejqkpa7duh5nzdc0q47g)
     - [Konstellation](https://konstellation.tech/): [darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k](https://www.mintscan.io/konstellation/validators/darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k)
     - [Rizon](https://rizon.world/): [rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0](https://www.mintscan.io/rizon/validators/rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0)
     - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
