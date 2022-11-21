@@ -63,7 +63,6 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Nym](https://nymtech.net/): [7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD](https://mixnet.explorers.guru/mixnode/7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD)
 <br><br>
 - **other validators:**
-    - [GenesisL1](https://genesisl1.com/): [genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq](https://ping.pub/genesisl1/staking/genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq)
     - [Provenance](https://provenance.io/): [pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3](https://www.mintscan.io/provenance/validators/pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3)
     - [Bitsong](https://bitsong.io/): [bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7](https://www.mintscan.io/bitsong/validators/bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7)
     - [Konstellation](https://konstellation.tech/): [darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k](https://www.mintscan.io/konstellation/validators/darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k)
