@@ -55,6 +55,7 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Solana](https://solana.com/): [FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef](https://www.validators.app/validators/FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef)
     - [Meme](https://meme.sx/): [memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8](https://ping.pub/meme/staking/memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8)
     - [Mises](http://www.mises.site/): [misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59](https://gw.mises.site/validators/misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59)
+    - [Lambda](https://lambda.im/): [lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a](https://explorer.nodestake.top/lambda/staking/lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a)
 <br><br>
 - **obtained a grant from foundations:**
     - [IDEP](https://www.idep.network/): [idepvaloper1gcwltc3vml0yerrya7hva3e7ju3gjmumz6nrjp](https://chadscan.com/validators/idepvaloper1gcwltc3vml0yerrya7hva3e7ju3gjmumz6nrjp)
@@ -70,7 +71,6 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
     - [Bitcanna](https://www.bitcanna.io/): [bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc](https://www.mintscan.io/bitcanna/validators/bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc)
     - [Canto](https://canto.io/): [cantovaloper1scgn7dmar5dtnzxvv23m8z9ksmxah437q478uc](https://explorer.nodestake.top/canto/staking/cantovaloper1scgn7dmar5dtnzxvv23m8z9ksmxah437q478uc)
-    - [Lambda](https://lambda.im/): [lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a](https://explorer.nodestake.top/lambda/staking/lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a)
 
 list of my active **testnets** can be found on [my website portfolio](https://cyberomanov.me/).
 _____
