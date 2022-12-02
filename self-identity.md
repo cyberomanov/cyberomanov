@@ -71,6 +71,7 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Bitcanna](https://www.bitcanna.io/): [bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc](https://www.mintscan.io/bitcanna/validators/bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc)
     - [Canto](https://canto.io/): [cantovaloper1scgn7dmar5dtnzxvv23m8z9ksmxah437q478uc](https://explorer.nodestake.top/canto/staking/cantovaloper1scgn7dmar5dtnzxvv23m8z9ksmxah437q478uc)
     - [Lambda](https://lambda.im/): [lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a](https://explorer.nodestake.top/lambda/staking/lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a)
+
 list of my active **testnets** can be found on [my website portfolio](https://cyberomanov.me/).
 _____
 <h3 name="contributions" align="center">CONTRIBUTIONS</h3>
