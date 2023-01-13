@@ -50,6 +50,7 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
 - **genesis validator of:**
     - [Gravity Bridge](https://www.gravitybridge.net/): [gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz)
     - [Omniflix](https://omniflix.network/): [omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady](https://www.mintscan.io/omniflix/validators/omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady)
+    - [Pylons](https://www.pylons.tech/): [pylovaloper1pv23amvvmfm570hsy28yd08rqnhjy75ztx2ydw](https://pylons.explorers.guru/validator/pylovaloper1pv23amvvmfm570hsy28yd08rqnhjy75ztx2ydw)
 <br><br>
 - **obtained a delegation from foundations:**
     - [Solana](https://solana.com/): [FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef](https://www.validators.app/validators/FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef)
@@ -57,16 +58,12 @@ besides **@how_to_node** blog and educating, i'm an independent and professional
     - [Mises](http://www.mises.site/): [misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59](https://gw.mises.site/validators/misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59)
     - [Lambda](https://lambda.im/): [lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a](https://explorer.nodestake.top/lambda/staking/lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a)
 <br><br>
-- **obtained a grant from foundations:**
-    - [IDEP](https://www.idep.network/): [idepvaloper1gcwltc3vml0yerrya7hva3e7ju3gjmumz6nrjp](https://chadscan.com/validators/idepvaloper1gcwltc3vml0yerrya7hva3e7ju3gjmumz6nrjp)
-<br><br>
 - **obtained a huge amount of delegations from my community:**
     - [Nym](https://nymtech.net/): [7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD](https://mixnet.explorers.guru/mixnode/7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD)
+    - [Quicksilver](https://quicksilver.zone/): [quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh](https://www.mintscan.io/quicksilver/validators/quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh)
 <br><br>
 - **other validators:**
-    - [Provenance](https://provenance.io/): [pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3](https://www.mintscan.io/provenance/validators/pbvaloper1m7j6vrclae9jjecp8r6zej2jpffu9c0krjazd3)
     - [Bitsong](https://bitsong.io/): [bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7](https://www.mintscan.io/bitsong/validators/bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7)
-    - [Konstellation](https://konstellation.tech/): [darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k](https://www.mintscan.io/konstellation/validators/darcvaloper1d7nh4f7n09c286cck5t40hh7qseyh6etk9mn9k)
     - [Rizon](https://rizon.world/): [rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0](https://www.mintscan.io/rizon/validators/rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0)
     - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
     - [Bitcanna](https://www.bitcanna.io/): [bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc](https://www.mintscan.io/bitcanna/validators/bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc)
