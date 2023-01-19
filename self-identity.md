@@ -122,7 +122,8 @@ list of my **technical contributions** categorized by groups:
     - [Tendermint](https://tendermint.com/): creator of [telegram alerts](https://github.com/cyberomanov/status/tree/main/tendermint/node_status) about jails, catchup, missed/voted blocks, proposals, upgrades, stake, salary and more;
     - [NYM](https://nymtech.net/): creator of [telegram alerts](https://github.com/cyberomanov/status/tree/main/nym) about stake, salary, mixnode status and more;
     - [Solana](https://solana.com/): creator of [telegram alerts](https://github.com/cyberomanov/status/tree/main/solana) about stake, balances, vote credits, missed/produced blocks and more;
-    - [Bwarelabs](https://bwarelabs.com/): creator of [telegram bot](https://t.me/BwarelabsFreeSlotsBot) which notifies you about new available RPC slots following your config;
+    - [Bwarelabs](https://bwarelabs.com/): creator of [@BwarelabsFreeSlotsBot](https://t.me/BwarelabsFreeSlotsBot) which notifies you about new available RPC slots following your config;
+    - [Bwarelabs](https://bwarelabs.com/): creator of [BwarelabsMonitorBot](https://t.me/BwarelabsMonitorBot) which notifies you about offline nodes;
     - [Ironfish](https://ironfish.network/): creator of [telegram alerts](https://github.com/cyberomanov/status/tree/main/ironfish) about positions in leaderboad for multiply accounts;
     - [Streamr](https://streamr.network/): creator of [testnet rewards calculator](https://github.com/cyberomanov/streamrChecker) for multiply addresses.
 <br><br>
