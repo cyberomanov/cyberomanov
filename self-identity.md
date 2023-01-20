@@ -125,6 +125,7 @@ list of my **technical contributions** categorized by groups:
     - [Bwarelabs](https://bwarelabs.com/): creator of [@BwarelabsFreeSlotsBot](https://t.me/BwarelabsFreeSlotsBot) which notifies you about new available RPC slots following your config;
     - [Bwarelabs](https://bwarelabs.com/): creator of [BwarelabsMonitorBot](https://t.me/BwarelabsMonitorBot) which notifies you about offline nodes;
     - [Ironfish](https://ironfish.network/): creator of [telegram alerts](https://github.com/cyberomanov/status/tree/main/ironfish) about positions in leaderboad for multiply accounts;
+    - [Ironfish](https://ironfish.network/): creator of [mbs](https://github.com/cyberomanov/ironfish-mbs) which automatically mint an asset, burn a half of it and send the rest to the specific address.
     - [Streamr](https://streamr.network/): creator of [testnet rewards calculator](https://github.com/cyberomanov/streamrChecker) for multiply addresses.
 <br><br>
 - **technical and general node education articles for my community**:
