@@ -17,30 +17,28 @@ _____
 <h3 name="intro" align="center">INTRO</h3>
 
 _____
-In late 2020, I ventured into the world of cryptocurrency and was immediately captivated by nodes and validation due to my background in coding. As my friends and I began exploring our first node, I quickly realized that this could be a difficult task for newcomers, as the documentation available was too complex for most people to understand.
+In late 2020, I ventured into the world of cryptocurrency and was immediately captivated by <i>nodes</i> and <i>validation</i> due to my background in coding. As my friends and I began exploring our first node, I quickly realized that this could be a difficult task for newcomers, as the documentation available was too complex for most people to understand.
 
 In an effort to help my friends, I decided to create my first guide. This proved to be an immensely satisfying experience for me, as I enjoyed teaching and explaining these complex topics. I continued writing more articles and soon found my passion in educating others about nodes.
 
-> My primary goal is <b>to teach</b> anyone how to set up and maintain their own node. As such, I launched my personal blog, [@how_to_node](https://t.me/how_to_node), in early 2021, to share my knowledge and experience with the wider community.
+> My primary goal is <b>to teach</b> anyone how to set up and maintain their own node. As such, I launched my personal blog, [@how_to_node](https://t.me/how_to_node), <b>in early 2021</b>, to share my knowledge and experience with <i>the wider community</i>.
 _____
 <h3 name="how_to_node" align="center">HOW_TO_NODE</h3>
 
 _____
 As I continued to write more articles about node-running, I realized that I needed a place to store and archive them. That's when I decided to create a telegram channel where I could keep all of my articles safe and accessible in one place. I named it [@how_to_node](https://t.me/how_to_node).
 
-Over the course of almost two years, the channel grew and evolved organically, becoming a thriving community of both experienced and novice validators. To my surprise, it has now grown to <b>over 12k members</b>, which is a testament to its success.
+Over the course of almost two years, the channel grew and evolved organically, becoming a thriving community of both experienced and novice validators. To my surprise, it has now grown to <b>over 12k members</b>.
 
 For me, [@how_to_node](https://t.me/how_to_node) has become a humble corner where I can share updates and guides about projects that interest me. I use [cyberomanov.tech](https://cyberomanov.tech) to publish my articles and this github to publish my open-source code, monitoring systems, automatisations, scripts and etc.
 
-> [@how_to_node](https://t.me/how_to_node) - has become a healthy and dynamic community of validators of all ages and skill levels, and I'm proud to have played a role in its growth and success.
+> [@how_to_node](https://t.me/how_to_node) - has become <b>a healthy and evolving community of validators</b> of all ages and skill levels, and I'm proud to have played a role in its growth and success.
 
 _____
 <h3 name="mainnet" align="center">MAINNETS</h3>
 
 _____
-In addition to running the [@how_to_node](https://t.me/how_to_node) blog and providing education on node-running, I am also an independent and professional validator. Below is a list of my mainnet validators, sorted by achievement level.
-
-> The list of my active **testnets** can be found on my website portfolio: [cyberomanov.me](https://cyberomanov.me/).
+In addition to running the [@how_to_node](https://t.me/how_to_node) blog and providing education on node-running, I am also <b>an independent and professional validator</b>. Below is a list of my mainnet validators, sorted by achievement level.
 
 ### Genesis validator of:
 - [Gravity Bridge](https://www.gravitybridge.net/): [gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz)
@@ -68,6 +66,8 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and pro
 ### Other nodes:
 - [Optimism](https://www.optimism.io/): [RPC](http://sh1.cyberomanov.tech:9737) provider for [Bwarelabs](https://bwarelabs.com/).
 - [Shiden](https://shiden.astar.network/): [RPC](http://op1.cyberomanov.tech:9991) provider for [Bwarelabs](https://bwarelabs.com/).
+
+> The list of my active **testnets** can be found on my website portfolio: [cyberomanov.me](https://cyberomanov.me/).
 _____
 <h3 name="contributions" align="center">CONTRIBUTIONS</h3>
 
@@ -109,7 +109,7 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and val
 - [Celestia](https://celestia.org/): co-creator of [@Celestia_RU](https://t.me/celestiaru) unofficial chat with **around 2k participants**.
 - [Penumbra](https://penumbra.zone/): co-creator of [@Penumbra_RU](https://t.me/penumbra_ru) unofficial chat with **around 800 participants**.
 
-### Promotion videos creator</b>:
+### Promotion videos creator:
 - [Avalanche](https://www.avax.network/): creator of [promotion video](https://youtu.be/bPwvcLoeT44) for bounty program.
 - [Minter](https://minter.org/): creator of [promotion video](https://youtu.be/XQ2B98TOOzc) for bounty program.
 - [Cyber](https://cyb.ai/): creator of [promotion video](https://youtu.be/mTrGJRM6IME) for bounty program.
@@ -128,7 +128,7 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and val
 - [Ironfish](https://ironfish.network/): creator of [mbs](https://github.com/cyberomanov/ironfish-mbs) which automatically mint an asset, burn a half of it and send the rest to the specific address.
 - [Streamr](https://streamr.network/): creator of [testnet rewards calculator](https://github.com/cyberomanov/streamrChecker) for multiply addresses.
 
-### Technical and general node education articles for my community**:
+### Technical and general node education articles for my community:
 - creator of [What is a Node?](https://cyberomanov.tech/WTF_node) article counting **>12k views**;
 - creator of [Where can I find a server for my Node?](https://cyberomanov.tech/WTF_server) article counting **>10k views**;
 - creator of [MobaXterm](https://cyberomanov.tech/WTF_MobaXterm) article counting **>9k views**;
@@ -139,15 +139,15 @@ _____
 <h3 name="total" align="center">CONCLUSION</h3>
 
 _____
-My primary goal and activity is <b>to teach anyone</b> how to set up and maintain their own node. That's why I created my personal blog about node-running <b>at the beginning of 2021</b>.
+My primary goal is <b>to teach</b> anyone how to set up and maintain their own node.
 
-[@how_to_node](https://t.me/how_to_node) is a thriving community of validators of all ages and skill levels, with around <b>12k participants</b>.
+As such, I launched my personal node-running blog, <b>in early 2021</b>, to share my knowledge and experience with <b>the wider community</b>.
 
-In addition, [@how_to_node](https://t.me/how_to_node) is where I post updates and guides about projects that interest me.
+[@how_to_node](https://t.me/how_to_node) - is <b>a healthy and evolving community of validators</b> of all ages and skill levels, counting <b>around 12k participants</b>, and I'm proud to have played a role in its growth and success.
 
-I have an [impressive portfolio](https://cyberomanov.me) of around <b>15 mainnets and several active testnets</b>, along with some foundation delegations and even a <b>grant</b>.
+I have an [impressive portfolio](https://cyberomanov.me) of around <b>15 mainnets and several active testnets</b>, along with some delegations sponsored by foundations and even a <b>grant</b>.
 
-Moreover, you can delegate your assets to me, and we can earn passive income <b>together</b>.
+Moreover, you can [delegate](https://cyberomanov.me) your assets to me, so that we could earn passive income <b>together</b>.
 
 By choosing me as a validator, you support and contribute to <b>the decentralization and security</b> of the network.
 
