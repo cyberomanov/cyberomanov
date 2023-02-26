@@ -58,8 +58,6 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and pro
 - [Quicksilver](https://quicksilver.zone/): [quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh](https://www.mintscan.io/quicksilver/validators/quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh)
 
 ### Other validators:
-- [Bitsong](https://bitsong.io/): [bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7](https://www.mintscan.io/bitsong/validators/bitsongvaloper1e6ds0qw6spsnhp4eatctafqarjyf3r0gfvslc7)
-- [Rizon](https://rizon.world/): [rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0](https://www.mintscan.io/rizon/validators/rizonvaloper1zluqzlmzpht00j97l4se9uzuwz46d3d8427tp0)
 - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
 - [Bitcanna](https://www.bitcanna.io/): [bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc](https://www.mintscan.io/bitcanna/validators/bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc)
 
