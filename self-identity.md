@@ -56,6 +56,7 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and pro
 ### Obtained a huge amount of delegations from my community:
 - [Nym](https://nymtech.net/): [7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD](https://mixnet.explorers.guru/mixnode/7TWEw9qQxsc8w4WhPAX6zjZ8vuNBdtP21zUVN8K26RkD)
 - [Quicksilver](https://quicksilver.zone/): [quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh](https://www.mintscan.io/quicksilver/validators/quickvaloper16pphtz8560dgx4hutdgkkg76uync6w24k4ujhh)
+- [KYVE](https://www.kyve.network/): [kyvevaloper1kr0flj8lm6x3xkwz0k37j7mknhs4375vtxqfsk](https://explorer.kyve.network/kyve/staking/kyvevaloper1kr0flj8lm6x3xkwz0k37j7mknhs4375vtxqfsk)
 
 ### Other validators:
 - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
