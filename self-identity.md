@@ -44,14 +44,12 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and pro
 - [Gravity Bridge](https://www.gravitybridge.net/): [gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1vgt7x7pln8f2uj8qpefeegxrfw90rxh3cn7saz)
 - [Omniflix](https://omniflix.network/): [omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady](https://www.mintscan.io/omniflix/validators/omniflixvaloper1mqv93zcu3zunu7jgxedf2k4sf3fc2y6xzjaady)
 - [Pylons](https://www.pylons.tech/): [pylovaloper1pv23amvvmfm570hsy28yd08rqnhjy75ztx2ydw](https://pylons.explorers.guru/validator/pylovaloper1pv23amvvmfm570hsy28yd08rqnhjy75ztx2ydw)
+- [HAQQ](https://haqq.network/): [haqqvaloper1rf3e3z60lqattw7vxxfu328pwlzu60knjlddsf](https://haqq.explorers.guru/validator/haqqvaloper1rf3e3z60lqattw7vxxfu328pwlzu60knjlddsf)
+- [Massa](https://massa.net/): [AU13b5hyn8SEb2KqfZPv7xynGqAeXaGrwwp2zw95gsxKzHEZAK17](https://explorer.massa.net/mainnet/address/AU13b5hyn8SEb2KqfZPv7xynGqAeXaGrwwp2zw95gsxKzHEZAK17)
 
 ### Obtained a delegation sponsored by the foundations:
 - [Solana](https://solana.com/): [FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef](https://www.validators.app/validators/FHeww9haGG55MRip5LwVL41JhzHxRCK55YX4v8A5s8Ef)
-- [Mina](https://minaprotocol.com/): [B62qpWbbAQd9mPyB1vJe3nDDhnGe9fLiqgS5CPU2BvUaYgA3UYopwra](https://uptime.minaprotocol.com/)
 - [Kusama](https://kusama.network/): [HtN9WHEppGjfoCiwbw7kDD7dz6MvbXy13Bd4MnTcADRK9cs](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/staking)
-- [Joystream](https://www.joystream.org/): [j4SHeeYtrWNS8E2b7yqGdKd96v8J31WXNpVwwoy42S9C4ZwTS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org#/staking)
-- [Meme](https://meme.sx/): [memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8](https://ping.pub/meme/staking/memevaloper1vnh80xppnkf4kpe50gtnpwc9uunep4zsz7a0j8)
-- [Mises](http://www.mises.site/): [misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59](https://gw.mises.site/validators/misesvaloper1cv9mkjwht055h09xlp8x5ytkks7nmv3q4fke59)
 - [Lambda](https://lambda.im/): [lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a](https://explorer.nodestake.top/lambda/staking/lambvaloper1kkwlrnayaere8pd727f80spdahrur95khy7n6a)
 
 ### Obtained a huge amount of delegations from my community:
@@ -60,7 +58,7 @@ In addition to running the [@how_to_node](https://t.me/how_to_node) blog and pro
 
 ### Other validators:
 - [Vidulum](https://vidulum.app/): [vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x](https://explorers.vidulum.app/vidulum/staking/vdlvaloper16kxanas6daeeh7lejgumn20cwmcdxwq3fw7h2x)
-- [Bitcanna](https://www.bitcanna.io/): [bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc](https://www.mintscan.io/bitcanna/validators/bcnavaloper1j0wqqw8fwgw6wn3ex5hjge0xhz984k554qzxuc)
+- [XAI](https://xai.games/): [0xce388fb798e2427e045066c2f3f11da7ccdcfd99](https://arbiscan.io/token/0x4C749d097832DE2FEcc989ce18fDc5f1BD76700c?a=0xce388fb798e2427e045066c2f3f11da7ccdcfd99)
 
 ### Other nodes:
 - [Optimism](https://www.optimism.io/): [RPC](http://sh1.cyberomanov.tech:9737) provider for [Bwarelabs](https://bwarelabs.com/).
